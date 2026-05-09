@@ -89,9 +89,7 @@ Atualmente focado em evolução Full Stack utilizando React, Node.js e Python.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AndersonAlbres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAlbres&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonAlbres&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
