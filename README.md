@@ -1,16 +1,48 @@
-## Hi there 👋
+# Olá, eu sou Anderson Albres 👋
 
-<!--
-**AndersonAlbres/AndersonAlbres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | Full Stack | React • Node.js • APIs • Integrações • n8n
 
-Here are some ideas to get you started:
+Desenvolvedor Python com experiência em automação de processos, integrações de sistemas e desenvolvimento Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+### Backend
+
+* Python
+* Node.js
+* FastAPI
+* Django
+
+### Frontend
+
+* React
+* JavaScript
+* HTML/CSS
+
+### Automação & Integrações
+
+* Selenium
+* Playwright
+* n8n
+* OCR
+* Web Scraping
+
+### Banco de dados
+
+* PostgreSQL
+* MongoDB
+* MySQL
+
+### Observabilidade
+
+* OpenTelemetry
+
+### Ferramentas
+
+* Docker
+* Git
+
+## 📫 Contato
+
+* LinkedIn: linkedin.com/in/anderson-albres-202a1a1a7
+
